@@ -1,0 +1,8 @@
+<!-- res/menu/menu_main.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_new"
+        android:title="Add new"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
